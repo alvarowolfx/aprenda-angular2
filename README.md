@@ -1,4 +1,4 @@
-# Aprenda Angular 2
-Um lugar aconchegante para aprender Angular 2 e ES6/TypeScript.
+# Aprenda React
+Um site para iniciar com o jeito React de ser.
 
-🚀 [http://aprendaangular2.online](http://aprendaangular2.online)
+🚀 [http://aprendareact.com](http://aprendareact.com)
