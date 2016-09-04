@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Forms
-edit_link: https://github.com/joselitojunior1/aprenda-angular2/edit/gh-pages/forms/index.md
+edit_link: https://github.com/alvarowolfx/aprenda-react/edit/gh-pages/forms/index.md
 tweet: "Criando poderosos formulários com Angular 2"
 ---
 

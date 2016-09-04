@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Variáveis no ES6/7
-edit_link: https://github.com/joselitojunior1/aprenda-angular2/edit/gh-pages/es6/variables/index.md
+edit_link: https://github.com/alvarowolfx/aprenda-react/edit/gh-pages/es6/variables/index.md
 tweet: "Entendendo as variáveis no ES6/7"
 ---
 

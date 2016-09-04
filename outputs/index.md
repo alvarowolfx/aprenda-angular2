@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Outputs
-edit_link: https://github.com/joselitojunior1/aprenda-angular2/edit/gh-pages/outputs/index.md
+edit_link: https://github.com/alvarowolfx/aprenda-react/edit/gh-pages/outputs/index.md
 tweet: "Utilizando seus próprios eventos loucos usando Outputs no Angular 2"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ViewChild
-edit_link: https://github.com/joselitojunior1/aprenda-angular2/edit/gh-pages/viewChild/index.md
+edit_link: https://github.com/alvarowolfx/aprenda-react/edit/gh-pages/viewChild/index.md
 tweet: "Acesso entre componentes no Angular 2"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Componentes
-edit_link: https://github.com/joselitojunior1/aprenda-angular2/edit/gh-pages/components/index.md
+edit_link: https://github.com/alvarowolfx/aprenda-react/edit/gh-pages/components/index.md
 tweet: "Como utilizar componentes usando Angular 2"
 ---
 

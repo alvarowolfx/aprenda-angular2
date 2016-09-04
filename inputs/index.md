@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Inputs
-edit_link: https://github.com/joselitojunior1/aprenda-angular2/edit/gh-pages/inputs/index.md
+edit_link: https://github.com/alvarowolfx/aprenda-react/edit/gh-pages/inputs/index.md
 tweet: "Entenda as propriedades de input no Angular 2"
 ---
 

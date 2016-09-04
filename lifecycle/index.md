@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lifecycle de uma aplicação Angular 2
-edit_link: https://github.com/joselitojunior1/aprenda-angular2/edit/gh-pages/lifecycle/index.md
+edit_link: https://github.com/alvarowolfx/aprenda-react/edit/gh-pages/lifecycle/index.md
 tweet: "Lifecycle de uma aplicação Angular 2"
 ---
 

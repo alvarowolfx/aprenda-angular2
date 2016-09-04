@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Template Strings no ES6
-edit_link: https://github.com/joselitojunior1/aprenda-angular2/edit/gh-pages/es6/template-strings/index.md
+edit_link: https://github.com/alvarowolfx/aprenda-react/edit/gh-pages/es6/template-strings/index.md
 tweet: "Usando Template Strings no ES6"
 ---
 
