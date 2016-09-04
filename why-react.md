@@ -25,6 +25,6 @@ Esperamos que você se encante pelo ecossistema construido pela comunidade React
 
 Learn once, write anywhere !
 
-Abraçs!<br>
+Abraços!<br>
 *[Alvaro Viebrantz](http://twitter.com/alvaroviebrantz)
 *Setembro de 2016*
