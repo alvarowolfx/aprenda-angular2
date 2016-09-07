@@ -1,11 +1,15 @@
 ---
 layout: default
-title: Eventos no Angular 2
+title: Eventos no React
 edit_link: https://github.com/alvarowolfx/aprenda-react/edit/gh-pages/events/index.md
-tweet: "Entendendo eventos no Angular 2"
+tweet: "Entendendo eventos no React"
 ---
 
-_Atualizado em 16 de Julho de 2016_
+_Atualizado em 7 de Setembro de 2016_
+
+[Work in Progress]
+
+<!--
 
 Eventos no Angular 2 usam a notação de parênteses nos modelos e métodos de gatilho na classe de um componente. Por exemplo, suponha que temos esta classe de componente:
 
@@ -47,3 +51,5 @@ class MyComponent {
   }
 }
 ```
+
+-->

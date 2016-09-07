@@ -1,11 +1,15 @@
 ---
 layout: default
-title: Variáveis no ES6/7
+title: Variáveis no ES6
 edit_link: https://github.com/alvarowolfx/aprenda-react/edit/gh-pages/es6/variables/index.md
-tweet: "Entendendo as variáveis no ES6/7"
+tweet: "Entendendo as variáveis no ES6"
 ---
 
-_Atualizado em 16 de Julho de 2016_
+_Atualizado em 7 de Setembro de 2016_
+
+[Work in Progress]
+
+<!--
 
 A partir do ES6, nós temos um novo jeito de inicializar variáveis, diga olá ao: `let`
 
@@ -39,3 +43,5 @@ for(let i in thing) {
 ```
 
 No geral, sempre use `let`, ao menos que você tenha um motivo muito bom pra usar `var`.
+
+-->

@@ -5,7 +5,11 @@ edit_link: https://github.com/alvarowolfx/aprenda-react/edit/gh-pages/es6/templa
 tweet: "Usando Template Strings no ES6"
 ---
 
-_Atualizado em 16 de Julho de 2016_
+_Atualizado em 7 de Setembro de 2016_
+
+[Work in Progress]
+
+<!--
 
 ES6 adiciona a possiblidade de escrever uma string em várias linhas, sem tem que fazer aquele concatenamento terrível. Tudo que a gente precisa é usar backticks (o acento grave) no início e no fim da string:
 
@@ -28,3 +32,5 @@ let template = `
   <div>O valor da soma é <span>${ x + y }</span></div>
 `;
 ```
+
+-->

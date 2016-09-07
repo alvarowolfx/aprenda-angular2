@@ -1,11 +1,15 @@
 ---
 layout: default
-title: Promises
+title: Entendedo Promises
 edit_link: https://github.com/driftyco/learn-angular2/edit/gh-pages/es6/promises.md
-tweet: "Pomises no Angular 2"
+tweet: "Entendendo Promises"
 ---
 
-_Atualizado em 16 de Julho de 2016_
+_Atualizado em 7 de Setembro de 2016_
+
+[Work in Progress]
+
+<!--
 
 Promises permite escrever código assíncrono de maneira mais fácil, comparada por exemplo ao o uso de callbacks. Muitas bibliotecas e Web APIs retornam promessas para operações assíncronas, como `fetch()`:
 
@@ -32,3 +36,5 @@ respostaDaVidaDoUniversoETudoMais() {
 ```
 
 Promises parecem simples a um primeiro momento, mas são complexas e extremamente poderosas na prática. Se ligue para não vacilar e fazer [anti-patterns](http://www.datchley.name/promise-patterns-anti-patterns/) no seu código.
+
+-->

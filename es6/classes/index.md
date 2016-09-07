@@ -1,11 +1,15 @@
 ---
 layout: default
-title: Classes no ES6/7
+title: Classes no ES6
 edit_link: https://github.com/alvarowolfx/aprenda-react/edit/gh-pages/es6/classes/index.md
-tweet: "Como escrever classes do ES6/7"
+tweet: "Como escrever classes do ES6"
 ---
 
-_Atualizado em 16 de Julho de 2016_
+_Atualizado em 7 de Setembro de 2016_
+
+[Work in Progress]
+
+<!--
 
 Para quem já trabalhou com alguma linguagem orientada a objetos, as classes do ES6 vão fazer você se sentir em casa. Aqui está um exemplo simples:
 
@@ -53,3 +57,5 @@ console.log('Tô bebendo uma ', beer.name, ' topzeira!');
 
 cerva.sell();
 ```
+
+-->

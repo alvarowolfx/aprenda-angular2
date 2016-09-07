@@ -5,7 +5,11 @@ edit_link: https://github.com/alvarowolfx/aprenda-react/edit/gh-pages/templates/
 tweet: "Tudo sobre Templates em aplicações Angular 2"
 ---
 
-_Atualizado em 16 de Julho de 2016_
+_Atualizado em 7 de Setembro de 2016_
+
+[Work in Progress]
+
+<!--
 
 Os modelos de template são muito semelhantes aos utilizados no Angular 1, apesar de existirem algumas mudanças sintáticas que tornam mais claro o que está acontecendo.
 
@@ -70,3 +74,5 @@ mas nunca retorna o nossa inicial `<my-component>` uma vez que é um template:
 ```
 
 Outras directivas que trabalham em templates de maneira semelhante são `*ngIf` e `*ngSwitch`.
+
+-->

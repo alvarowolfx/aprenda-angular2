@@ -2,10 +2,14 @@
 layout: default
 title: Componentes
 edit_link: https://github.com/alvarowolfx/aprenda-react/edit/gh-pages/components/index.md
-tweet: "Como utilizar componentes usando Angular 2"
+tweet: "Como criar componentes usando React"
 ---
 
-_Atualizado em 16 de Julho de 2016_
+_Atualizado em 7 de Setembro de 2016_
+
+[Work in Progress]
+
+<!--
 
 No Angular 2, Componentes são a principal maneira de criar e especificar elementos e lógica na página.
 
@@ -36,3 +40,5 @@ export class MyComponent {
 ```
 
 Quando usamos a tag `<my-component></my-component>` em nosso HTML, este componente será criado, o nosso construtor chamado e renderizado no DOM.
+
+-->

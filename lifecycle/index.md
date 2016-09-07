@@ -1,11 +1,15 @@
 ---
 layout: default
-title: Lifecycle de uma aplicação Angular 2
+title: Lifecycle de um component React
 edit_link: https://github.com/alvarowolfx/aprenda-react/edit/gh-pages/lifecycle/index.md
-tweet: "Lifecycle de uma aplicação Angular 2"
+tweet: "Lifecycle de um component React"
 ---
 
-_Atualizado em 16 de Julho de 2016_
+_Atualizado em 7 de Setembro de 2016_
+
+[Work in Progress]
+
+<!--
 
 Aplicações Angular passam por um processo várias etapas desde o seu bootstrap e ciclo de vida, podendo
 responder a vários eventos como o quando o aplicativo é iniciado, executado e quando se cria/destrói componentes.
@@ -128,3 +132,5 @@ class StreetMap {
   }
 }
 ```
+
+-->

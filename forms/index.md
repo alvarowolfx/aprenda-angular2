@@ -1,11 +1,15 @@
 ---
 layout: default
-title: Forms
+title: Formulários com React
 edit_link: https://github.com/alvarowolfx/aprenda-react/edit/gh-pages/forms/index.md
-tweet: "Criando poderosos formulários com Angular 2"
+tweet: "Criando formulários com React"
 ---
 
-_Atualizado em 16 de Julho de 2016_
+_Atualizado em 7 de Setembro de 2016_
+
+[Work in Progress]
+
+<!--
 
 Os formulários são fundamentais em qualquer aplicativo. No Angular 2, formulários mudaram um pouco desde a versão 1 do framework.
 
@@ -131,3 +135,5 @@ doLogin(event) {
   event.preventDefault();
 }
 ```
+
+-->
