@@ -1,36 +1,26 @@
 ---
 layout: default
-title: ES6/ES7/FlowType... O que é tudo isso ?
+title: ES6, ES7 e Babel... O que é tudo isso ?
 edit_link: https://github.com/alvarowolfx/aprenda-react/edit/gh-pages/es6/index.md
-tweet: "ES6/ES7/FlowType... O que é tudo isso ?"
+tweet: "ES6, ES7 e Babel... O que é tudo isso ?"
 ---
 
 _Atualizado em 7 de Setembro de 2016_
 
-[Work in Progress]
+# O que é o ES6 ?
 
-<!--
+Antigamente você apenas incluia seu código Javascript em uma tag \<script\> no cabeçalho da sua páginas e seu código iria rodar como pretendido. Hoje em dia, nós pré-processamos nosso Javascript para poder experimentar funcionalidades e extensões da linguagem que os browsers atuais ainda não suportam, ou talvez nem venham a ser suportadas. 
 
-Uma das coisas mais difíceis para desenvolvedores JavaScript que trabalham com as versões mais novas da linguagem, é justamente escrever seu código diretamente nessas versões.
+O padrão para o Javascript no browsers é o ECMAScript. Ele é a especificação da linguagem, utilizada para implementar a linguagem Javascript. ES6, ou ECMAScript 6 é a primeira primeira atualização significante na linguagem desde 2009, que foi lançado o ES5.
 
-Ouvimos falar de ES5, ES6, ES2015, agora ES7, TypeScript, AtScript, Babel... a lista é gigantesca.
+Várias funcionalidades do ES6 já estão disponíveis nos motores Javascript mais modernos. Porém usando o [Babel](https://babeljs.io/), temos acesso a muito mais funcionalidades enquanto garante que nosso código Javascript vai rodar em mais plataformas. Muitos desenvolvedores React utilizam o [Babel](https://babeljs.io/) para habilitar as funcionalidades do ES6 e garantir a consistência entre os diferentes navegadores, já que seu código vai rodar no Chrome, Firefox, Safari, Opera e outros navegadores.
 
-O JavaScript em si é definido por padrões. Isso significa que um [comitê](http://www.infoq.com/news/2015/06/ecmascript-2015-es6) define em comum acordo, qual é o menor denominador comum do EcmaScript que todos os navegadores devem implementar. E esse conjunto de padrões escolhidos é o que chamamos de "JavaScript". Hoje em dia (mas não por muito tempo), a versão ES5 é a versão do JS mais comum e que oferece mais suporte por parte dos navegadores.
+# Babel
 
-Entretanto, essa "dependência" de um comitê é notoriamente lenta. Então, há um anseio de desenvolvedores - desde desenvolvedores indepentes até aqueles que trabalham nos navegadores - de utilizar as novas funcionalidades do JS mais rápido do que o próprio comitê aprova _(mesmo que ás vezes nem eles saibam por que estão fazendo isso)_.
+O [Babel](https://babeljs.io/) é a principal ferramenta utilizada para pré-processar Javascript hoje. Ele é um __parser__ altamente configurável, que deixa você experimentar funcionalidades e extensões, compilando isso para o bom e velho Javascript que é suportado pela maioria das plataformas. Claro, se a plataforma não suporta uma função nativa do ES6, como o Map(), o Babel não vai conseguir te ajudar, mas ele consegue muitas vezes fornecer polyfills de APIs que estejam faltando para prover alguma funcionalidade nova.
 
-O JavaScript, para os navegadores, funciona como uma espécie de Assembly. Isso significa que você consegue executar um código que foi devidamente implementado numa linguagem de mais alto-nível e que foi "compilada" posteriormente pra JS, já que dessa maneira que o navegador consegue entender.
+A ferramente ainda permite o debug da sua aplicação com o código fonte original, incluindo os __source maps__ junto do Javascript compilado. Os interpretadores vão rodar o seu código compilado e fazer o mapeamento com o código original para que você possa fazer o debug, já que o código compilado a maiorias das vezes é bastante feio.
 
-CoffeeScript fazia exatamente isso, e foi uma das primeias linguagens de alto-nível a ter sucesso que compilava para JS. Um desenvolvedor escrevia em CoffeeScrript e o compilador transformava aquilo em JavaScript puro, por baixo do capô.
+# Destaques do ES6
 
-Isso é o que nós vemos hoje em dia com o ES6/7. Os navegadores ainda não implementaram nativamente várias das funcionalidades do E6/7, e os desenvolvedores querem inovar além do que o JavaScript é atualmente. Para tal, foram criadas linguagens de mais alto nível como AtScript, TypeScript, e ferramentas como o Babel. Todas compilam o código de volta para ES5.
-
-Typescript é uma extensão do JS que foi desenvolvida pela Microsoft. Ela possui uma checagem de tipo extremamente poderosa e é orientada a objetos. O Angular 2 e o Ionic 2 usam TypeScript.
-
-### Conclusão
-
-Se você quer escrever puramente com ES6/ES7 hoje em dia, você pode usar o [Babel](https://babeljs.io/), intitulado como "o compilador para escrever a próxima geração do JavaScrpt". Se você pretende usar o Angular e o Ionic nos seus projetos, nós recomendamos o uso de TypeScript, que contém funcionalidades semelhantes ao Babel, além da sua checagem de tipos.
-
-Se você está interessado no TypeScript, visite o [site oficial](http://www.typescriptlang.org/).
-
--->
+Algumas das principais funcionalidades do ES6 estão listados no menu lateral e são melhores explorados para que você possa entender cada um deles.
